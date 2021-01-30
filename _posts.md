@@ -1,0 +1,13 @@
+**Hi!** **I’m Kristian Crosby**, 
+
+  this is currently my third year here at CNU as a computer science major. My pronouns are he/him. My interest in digital humanities stems from wanting to be in the same class as my roommate and I also wanted to take something that could possibly go hand-in-hand with my major. Based on the course description I thought it seemed very intriguing and I could potentially benefit from it, although I didn’t initially know what digital humanities was. I thought it seemed intriguing and I believe I could potentially benefit from it. I don’t have a clear future in writing as a comp sci major but I definitely believe that writing is still going to be a prominent aspect of my career as a software developer because of how much devs need to write. Developers frequently need to produce write-ups or write descriptions about new apps and features to a product. 
+
+
+**Asipirations**
+
+  As previously mentioned, I would like to become a software developer. After I graduate, I would like to get a master’s but I’d prefer to have my job or company sponsor it for me in the future so that I can save **_a lot_** of money. In particular, I’d love to be a software developer at a company that I believe does real meaningful work, **_and_** be able to have time for my own side hobby/job on the side. I hope to get my first internship with NASA develop this summer. 
+
+
+**About me**
+
+  Some of my achievements while attending school, are being involved in greeklife and playing intramural sports. Moreover, some personal things about me are I’m from Williamsburg, VA. I really enjoy a lot of different things. I’m very into typical things like movies, music and social  media, but I also really enjoy skating, fashion, technology, and other various arts. 
