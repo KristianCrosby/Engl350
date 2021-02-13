@@ -1,5 +1,6 @@
 # Livingstone Online Review
 https://github.com/KristianCrosby/KristianCrosby350/blob/main/images/LO1.PNG
+
 **Overview:**
 
 Livingstone Online is an expansive amalgamation of a famous victorian explorer David Livingstone. The website greets you with a nice background of a victorian artwork depicting a scene in Livingstone’s manuscripts. My initial first impression while clicking through the site was how expansive the site actually was. Each main page is filled and divided into several other subdivisions of the site, detailing different aspects of that particular subsection. Sources for all information are provided on the top of each page, before each articulated section. The site prides itself on the accessibility to the information and its thousands of transcriptions and detailed manuscripts.
@@ -10,6 +11,7 @@ David Livingstone is a famous explorer from Blantyre Scotland and is known for h
 
 **Review/Technology:**
 https://github.com/KristianCrosby/KristianCrosby350/blob/main/images/LO2.PNG
+
 Livingstone Online is an experience that brings an unprecedented amount of information, facts, firsthand manuscripts, and transcriptions to every reader. The site opens up with a victorian era scene presumably from one of Livingstone’s books and has six main clickable points, each of which takes you to atmost nine different clickable sections on each page. The name of the main six sections is an “About” page, “Personal accounts”, “Spectral Imaging”, “Life and Times”, “Behind the scenes”, and a “resources” tab. Within each page, there are several different headings with information under them. On each side, you can then click an arrow to go through each new section. Which I found to be very convenient. The pages are relatively self-explanatory to the content you will receive however you there is a lot of different clickable parts when you click on one of the six main sections so there’s a lot to actually see. The spectral imaging page is an integral part of the project and site itself as it helped decipher tons of information that would have been lost without it. Spectral imaging was described as a cutting edge technology that allows the user to see manuscripts that had been withered away over the years. 
 
 **Gripes:** 
