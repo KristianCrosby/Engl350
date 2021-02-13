@@ -1,5 +1,5 @@
 # Livingstone Online Review
-![Livingstone Online Entry Page](https://KristianCrosby.github.io/KristianCrosby350/blob/main/images/LO1.PNG)
+![Livingstone Online Entry Page](https://KristianCrosby.github.io/KristianCrosby350/blob/main/images/LO1.jpg)
 
 **Overview:**
 
@@ -10,11 +10,11 @@ Livingstone Online is an expansive amalgamation of a famous victorian explorer D
 David Livingstone is a famous explorer from Blantyre Scotland and is known for his time as a missionary in Africa and as an active abolitionist. As a child, Livingstone would work in unethical conditions at a local factory. He was fortunate enough to have a decent education due to his circumstances and location in Scottland. He was able to use that to his advantage and be able to practice medicine and healthcare by the age of 19. During his further education, Livingstone was inspired by philosophy and religion and set out to become a missionary. During his travels, Livingstone would go onto later become the first European explorer to traverse Africa. Livingstone would later go on to have his travels well documented and published with the help of editors and artists. Documents of David Livingstone’s expeditions across Africa were very well received and his fame would continue after his death into the victorian age. He was remembered for his heroic nature and powerful contributions to geographical explorations. 
 
 **Review/Technology:**
-![Page Sections](https://KristianCrosby.github.io/KristianCrosby350/blob/main/images/LO2.PNG)
+![Page Sections](https://KristianCrosby.github.io/KristianCrosby350/blob/main/images/LO2.jpg)
 
 Livingstone Online is an experience that brings an unprecedented amount of information, facts, firsthand manuscripts, and transcriptions to every reader. The site opens up with a victorian era scene presumably from one of Livingstone’s books and has six main clickable points, each of which takes you to atmost nine different clickable sections on each page. The name of the main six sections is an “About” page, “Personal accounts”, “Spectral Imaging”, “Life and Times”, “Behind the scenes”, and a “resources” tab. Within each page, there are several different headings with information under them. On each side, you can then click an arrow to go through each new section. Which I found to be very convenient. The pages are relatively self-explanatory to the content you will receive however you there is a lot of different clickable parts when you click on one of the six main sections so there’s a lot to actually see. The spectral imaging page is an integral part of the project and site itself as it helped decipher tons of information that would have been lost without it. Spectral imaging was described as a cutting edge technology that allows the user to see manuscripts that had been withered away over the years. 
 
-![Spectral Imaging](https://KristianCrosby.github.io/KristianCrosby350/blob/main/images/LO3.PNG)
+![Spectral Imaging](https://KristianCrosby.github.io/KristianCrosby350/blob/main/images/LO3.jpg)
 
 **Gripes:** 
 
