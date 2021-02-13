@@ -1,4 +1,6 @@
 # Livingstone Online Review
+## Adrian S. Wisnicki, director
+### https://livingstoneonline.org 
 ![Livingstone Online Entry Page](https://KristianCrosby.github.io/KristianCrosby350/images/LO1.jpg)
 
 **Overview:**
@@ -24,4 +26,4 @@ The site had no noticeable technology faults and the UI seemed to be very smooth
 
 Livingstone Online was generally more interesting than it appears at first glance. It was a very informative read about David Livingstone’s career. And provided richness behind deciphering Livingstone's manuscripts through technology. The only things I would recommend would be to consolidate the information and cut out some of the extraneous parts. This would help establish a target audience that you want the site to be suited for. 
 
-## Livingstone Online, 2004-2021
+#### Livingstone Online, 2004-2021
