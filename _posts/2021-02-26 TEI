@@ -1,0 +1,15 @@
+# TEI
+
+On our third project, we created TEI (text-encoding initiative) documents for our reading “The Yellow Wall-Paper” the week prior. The yellow wallpaper is a short story by Charlotte Perkins Gilman highlighting the mental and physical health of a woman as she is being “cared for” by her husband as they move into a new living situation. The story has been adapted into a 19th-century feminist short story from original manuscripts. 
+
+![The Yellow Wall-Paper Manuscript](https://KristianCrosby.github.io/KristianCrosby350/images/yellow.jpg)
+
+From these transcripts, we were given recreations in the form of google docs and marked them up in order to detail the subtle nuances from the original manuscripts. From which we were able to create our TEI documents. The TEI documents help us to see details that we otherwise wouldn’t be able to from reading the mass-produced novel version of the short story. Marking up the manuscripts consisted of looking for things like odd spacing, misspelled words, underlined or crossed out words, and many other small syntactical choices seen in the original manuscripts. This process really helped formulate the thoughts a bit smoother when transitioning to the TEI form. This part inparticular reminded me of writing a bit psuedocode (which is a rough outline of code without the use of code) before you actually begin to code. 
+
+![Markup from google doc](https://KristianCrosby.github.io/KristianCrosby350/images/markup.jpg)
+
+	As a computer science major I came into fruition with the notion that the coding portion of the project would be a pretty simple. I’m familiar with software based languages like java, python and c++, so I thought learning a bit of XML would be pretty straightforward as there were no mathematical notions to go with it. As it turned out I learned a lot about this front-end language. I didn’t run into any major issues except copying and pasting the different XML shortcuts, as well as trying to get my page numbers to appear correctly when actually running the HTML. I enjoyed using the Oxygen IDE to use for XML as it was very easy to use and I enjoyed how it helped when formatting. Using this process for the TEI really gave a lot of meaning behind the writing. 
+  
+![XML Code](https://KristianCrosby.github.io/KristianCrosby350/images/theyellowwallpaper.jpg)
+
+Concluding, I really enjoyed the process altogether. I personally enjoyed the reading by itself, because I found the literature to be pretty interesting as the story unfolded. At one point I wasn’t certain about the whole usefulness of TEI, but I now understand what it helps convey. You can see certain points or even struggles the author had in the original manuscripts, whereas you won’t see in the publication version of the text. 
