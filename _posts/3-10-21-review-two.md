@@ -26,3 +26,4 @@ There’s very little that I would change. The only small issues about the site 
 
 Overall, I thoroughly enjoyed this site and the project as a whole. As the art itself was very interesting to read, and I can genuinely find myself coming back to this website whether for academic or purely entertainment purposes. Even after the small very fixable issues, the site was still pretty well made and I could tell the site had a lot of purposefully modernist elements that really help the site feel immersive. 
 
+  
