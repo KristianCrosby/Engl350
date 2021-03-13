@@ -8,14 +8,17 @@ MoMA: Inventing abstraction is a site dedicated to showcasing decadent abstract 
 **Background:**
 
 The site specifically highlights emerging modernist abstract artworks. Abstract art presented itself fairly recently for the time period and at the time it was only just beginning to become modern. These abstract artworks were some of the first of their kind for modernist art as well. The works first appeared around 100 years and several different implications and interpretations. Viewers are able to historic and artistic value from each of these pieces and possibly even connect values to one another. 
+
 ![legend](https://KristianCrosby.github.io/KristianCrosby350/images/review2-3.jpg)
 
 **Review:**
 
 MoMA: Inventing abstraction provides a fantastic online digital collection of historic pre-modern abstract artworks. The site design itself is also constructed in an elegant modern view and it’s very easy to navigate without the site looking dull or a standard Html-skeleton-like site. Atop the page, there are four sections to click that bring you to different pages of the site. The connections section displays the highlight of the site which is a huge network of lines and connections between each artist. The connections are remarkable at bringing together and organizing the artists and their respective works, where they then classify them and show similar works, by similar artists. They also include an artists page where they have all the artists in alphabetical order that were featured on the connections page, in case you’d like to navigate through a different way. I like that you can scroll through and search through artists in a traditional way as well. 
+
 ![Artists](https://KristianCrosby.github.io/KristianCrosby350/images/review2-1.jpg)
 
 The third page is a section called conversations, which takes you to articles about some artists included in the connections. This feature is pretty cool in case you wanna learn a little more about some of the meaning behind some of the pieces, and gain a bit more insight. Lastly, the page includes programs and events, which are some links on the actual MoMA website that offer exactly that. One of my favorite things about the site is that the works actually vary piece by piece. The site not only collects classical mediums but also other art forms such as printed matter, books, sheets of music, dance, sculpture, books, and even film. Another really cool part is on the bottom of the page there is a network diagram tab that displays the connections like a map and includes a legend. Really nice attention to detail on that part. 
+
 ![legend](https://KristianCrosby.github.io/KristianCrosby350/images/review2-legend.jpg)
 
 **Things I would change:**
