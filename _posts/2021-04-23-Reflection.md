@@ -7,4 +7,4 @@
  ![XML Code](https://KristianCrosby.github.io/KristianCrosby350/images/theyellowwallpaper.jpg)
   
   It introduced me to a new front-end web development language. Another aspect I really liked about the course was GitHub. While I’ve used it in other courses DH was the last course I expected it to appear again. It actually showed me newer ways to use the site aside from pushing and pulling code from repositories.
-Overall this process and class as a whole was a nice experience. I enjoyed this course and what it was about after practically going into the course blind. 
+Overall this process and class as a whole was a nice experience. I enjoyed this course and what it was about after practically going into the course blind. I would generally recommend this course for anyone who wants to develop a new skill, or try something a little different from the average writing intensive. 
